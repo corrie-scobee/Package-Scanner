@@ -1,1 +1,1 @@
-# Package-Scanner
+This is a project that I used ChatGPT to help create. It is written using Python, and the goal of this application was to decrease the time it took to hand-log packages. This application works with a generic barcode scanner to read in the data gathered by scanning the barcode and automatically uploads the tracking number into an Excel document. It then adds the date that each package was scanned in. Lastly, the program generates a new Excel document each month to decrease the number of entries per document and to help organize the data better.
